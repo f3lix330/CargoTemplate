@@ -1,0 +1,15 @@
+[package]
+name = "CargoTemplate"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1"
+chrono = "0.4"
+dirs = "7"
+log = "0.4"
+simplelog = "0.12"
+rand = "0.10"
+derive-getters = "0.5"
+owo-colors = "4"
+thiserror = "2"
